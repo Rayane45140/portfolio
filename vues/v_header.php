@@ -43,7 +43,7 @@
         <li class="nav-item"><a href="index.php?uc=competences" class="nav-link">Compétences</a></li>
         <li class="nav-item"><a href="index.php?uc=veille" class="nav-link">Veille</a></li>
         <li class="nav-item"><a href="index.php" class="nav-link">Épreuve E4</a></li>
-        <li class="nav-item"><a href="index.php" class="nav-link">Contact</a></li>
+        <li class="nav-item"><a href="index.php?uc=profil" class="nav-link">Profil</a></li>
       </ul>
     </div>
   </div>

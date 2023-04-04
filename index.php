@@ -5,7 +5,6 @@
     <body>
     <?php 
     include("vues/v_header.php");
-    include("vues/v_footer.php");
     include_once("modele/bd.inc.php");
     include_once("modele/articles.php");
 
@@ -36,8 +35,15 @@
             break;
         }
 
+    case 'profil':
+        {
+            include("vues/v_profil.php");
+            break;
+        }
+
 
     }
     ?>
+    <!--<?php include("vues/v_footer.php") ;?>-->
     </body>
 </html>
