@@ -2,7 +2,7 @@
     background-color: #4CAF50;
     border: none;
     color: white;
-    padding: 15px 32px;
+    padding: 5px 20px;
     text-align: center;
     text-decoration: none;
     display: inline-block;
@@ -12,7 +12,8 @@
 }
 
 .button1 {
-    background-color: white;
+    background-color: #e3f2fd;
     color: black;
-    border: 2px solid #555555;
+    border: 1px solid #555555;
 }
+
