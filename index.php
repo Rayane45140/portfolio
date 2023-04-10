@@ -41,6 +41,11 @@
             break;
         }
 
+    case 'e4':
+        {
+            include("vues/v_e4.php");
+            break;
+        }
 
     }
     ?>

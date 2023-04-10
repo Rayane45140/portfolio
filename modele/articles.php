@@ -7,7 +7,7 @@
 function getArticles(){
     try{
         $monPdo = connexionPDO();
-        $req = 'SELECT id_article, nom_article, resume_article, lien_article FROM article';
+        $req = 'SELECT id_article, nom_article, resume_article, lien_article, date_article FROM article';
         $res = $monPdo->query($req);
         $result = $res->fetchAll();
         return $result;

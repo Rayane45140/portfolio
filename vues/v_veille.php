@@ -13,16 +13,16 @@
                 <?php
                 $lesArticles = getArticles();
                 foreach ($lesArticles as $a) {
-                    ?><h4><?php echo $a['nom_article']?></h4>
+                    ?><h4> <?php $lien = $a['lien_article']; ?>
+                    <a href="<?php echo $lien ?>" target="_blank">
+                        <img src="logos/lien.svg" class="img-fluid" style="width: 25px;"></a><?php echo ' '.$a['nom_article']?>
+                    </h4>
+                    <p style="color:grey"><i><?php echo $a['date_article'] ?></i></p>
                     <a><?php echo $a['resume_article']?></a>
                     
                     </br>
 
-                    <?php $lien = $a['lien_article']; ?>
-
-                    <button class="button button1" onclick="window.open('<?php echo $lien ?>','_blank');">
-                        Lien de l'article
-                    </button>
+                    
                     <hr><?php
                 } ?>
                 </p>
