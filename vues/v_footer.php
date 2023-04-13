@@ -1,41 +1,38 @@
-</body>
-<div id="foot">
-    <footer class="align-items-end">
-        <div class="container">
-            <div class="row pt-4">
-                <div class="col-lg-3 col-12 align-left">
-                    <a class="navbar-brand" href="index.php?uc=accueil">
-                        <span class="text-dark h5"><u>Projet GSB</u></span>
-                    </a>
-                    <p class="text-dark my-lg-4 my-2">
-                        Projet de BTS SIO 2ème année : Rédaction et suivi de rapport de visite sous forme d'un site Web pour l'entreprise GSB avec base de donnée.
-                    </p>
-                </div>
-            </div>
-        </div>
 
-        <div class="w-100 footercustom pt-3">
-            <div class="container">
-                <div class="row pt-2 d-flex justify-content-center">
-                    <div class="col-lg-6 col-sm-12">
-                        <p class="text-center text-dark light-300">
-                            © Copyright 2023 Rayane Van Der Stuyft.
-                        </p>
+  <!-- Footer -->
+  <footer
+          class="text-center text-lg-start text-dark"
+          style="background-color: #e3f2fd"
+          >
+    <!-- Grid container -->
+    <div class="container">
+        <div class="row d-flex align-items-center">
+          <!-- Grid column -->
+          <div class="text-center">
+            <!-- Copyright -->
+            <div class="row align-items-center">
+                <div class="col">
+                    <div class="p-3">
+                        © 2023 Copyright:
+                        <a class="text-dark" href="index.php?uc=profil">VAN DER STUYFT Rayane</a>
+                    </div>
+                </div>
+                <div class="col">
+                    <div class="p-3">
+                        Icônes: 
+                        <a class="text-dark" href="https://simpleicons.org/">Simple Icons</a>
+                    </div>
+                </div>
+                <div class="col">
+                    <div class="p-3">
+                        Framework: 
+                        <a class="text-dark" href="https://getbootstrap.com/docs/5.0/getting-started/introduction/">Bootstrap 5</a>
                     </div>
                 </div>
             </div>
+            <!-- Copyright -->
+          </div>
+          <!-- Grid column -->
         </div>
-
-    </footer>
-</div>
-
-
-<script src="assets/js/bootstrap.bundle.min.js"></script>
-
-<script src="assets/js/isotope.pkgd.js"></script>
-
-<script src="assets/js/custom.js"></script>
-
-<script src="assets/js/rapportvisite.js"></script>
-
-<script src="assets/js/gererMedecin.js"></script>
+    </div>
+  </footer>

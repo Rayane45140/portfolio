@@ -142,8 +142,6 @@
 
             </div>
             <hr>
-
-                
             </div>
           </div>
           <div class="col-md-6 col-lg-5 ml-auto d-flex  mt-4 mt-md-0">
