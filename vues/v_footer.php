@@ -1,5 +1,6 @@
 
   <!-- Footer -->
+ <div class="footer">
   <footer
           class="text-center text-lg-start text-dark"
           style="background-color: #e3f2fd"
@@ -10,6 +11,7 @@
           <!-- Grid column -->
           <div class="text-center">
             <!-- Copyright -->
+            <div class="insideFooter">
             <div class="row align-items-center">
                 <div class="col">
                     <div class="p-3">
@@ -30,9 +32,11 @@
                     </div>
                 </div>
             </div>
+            </div>
             <!-- Copyright -->
           </div>
           <!-- Grid column -->
         </div>
     </div>
   </footer>
+</div>

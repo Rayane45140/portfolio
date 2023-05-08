@@ -1,8 +1,8 @@
 <?php
 function connexionPDO() {
-    $login = 'portfolio';
-    $mdp = 'portfolio';
-    $bd = 'portfolio'; 
+    $login = 'dtkykucj_portfolio';
+    $mdp = 'lePortfolio45ù';
+    $bd = 'dtkykucj_portfolio'; 
     $serveur = 'localhost';
     $port = 3306;
 

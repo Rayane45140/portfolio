@@ -7,7 +7,7 @@
     <div class="feature-work container my-4">
         <div class="row d-flex d-flex align-items-center">
             <div class="col-lg">
-                <h1 class="feature-work-heading h2 py-3 semi-bold-600">Les articles de veille informatique</h1>
+                <h1 class="feature-work-heading h2 py-3 semi-bold-600">Les articles de veille technologique</h1>
                 <hr>
                 <p class="feature-work-body text-muted light-300">
                 <?php

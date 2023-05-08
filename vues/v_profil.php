@@ -5,19 +5,19 @@
         <div class="row d-flex d-flex align-items-center">
             <div class="col-lg">
                 <h1 class="feature-work-heading h2 py-3 semi-bold-600">Mon profil</h1>
-                <hr>
-                <div class="row">
-          <div class="col-md-6">
-            <div>
-</br>
-            <h4>Mon parcours</h4>
-            <p>C'est durant mes années au lycée général (en spécialité NSI) que j'ai appris les bases en informatique, notamment en développement.
+                    <hr>
+                        <div class="row">
+                            <div class="col-md-6">
+                                <div>
+                                </br>
+                                <h4>Mon parcours</h4>
+                                <p>C'est durant mes années au lycée général (en spécialité NSI) que j'ai appris les bases en informatique, notamment en développement.
                 Après l'obtention du baccalauréat général au lycée Jean Zay d'Orléans, je me suis dirigé vers un
                 BTS SIO (Services informatiques aux organisations) de Benjamin Franklin.
                 C'est au milieu de cette première année de BTS que j'ai rejoint l'option SLAM.
-            </p>
+                                </p>
 </br>
-            <h4>Qu'est-ce que l'option SLAM?</h4>
+                                <h4>Qu'est-ce que l'option SLAM?</h4>
             <p>
                 L'option SLAM (Solutions Logicielles et Applications Métiers) est basée sur la conception et le développement
                 d'applications, ainsi qu'au déploiement et à la maintenance des composants logiciels d'une solution applicative. Durant cette formation
@@ -143,8 +143,8 @@
             </div>
             <hr>
             </div>
-          </div>
-          <div class="col-md-6 col-lg-5 ml-auto d-flex  mt-4 mt-md-0">
+            </div>
+            <div class="col-md-6 col-lg-5 ml-auto d-flex  mt-4 mt-md-0">
             <div>
             </br>
             <a href="pdf/mon_cv.pdf" target="_blank">
